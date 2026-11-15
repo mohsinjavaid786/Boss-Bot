@@ -291,3 +291,9 @@ docs/           Architecture and implementation requirements
 5. Add authorized fallback and local models without making API billing the default.
 
 Track the [multi-account requirements](docs/multi-account-requirements.md) and [architecture](docs/architecture.md). The repository records shipped features separately from planned work.
+
+## Maintainer
+
+Maintained by [**Mohsin Javaid**](https://github.com/mohsinjavaid786), Partner & Head of Product Delivery at [Turing Technologies](https://www.turingtechnologies.org/), based in Islamabad, Pakistan.
+
+[More personal projects](https://github.com/mohsinjavaid786#featured-personal-projects) · [LinkedIn](https://www.linkedin.com/in/mohsinjavaid47/)
